@@ -1,0 +1,1 @@
+ghc -O2 -o a.out $1 && ./a.out
